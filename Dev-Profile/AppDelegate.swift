@@ -6,7 +6,6 @@
 //  Copyright © 2018 Myke Phillips. All rights reserved.
 //
 
-
 import UIKit
 
 @UIApplicationMain
